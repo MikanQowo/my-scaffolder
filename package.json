@@ -1,0 +1,19 @@
+{
+  "name": "my-scaffolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",  
+  "bin": {
+    "my-scaffolder": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "execa": "^9.6.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.6.3"
+  }
+}
